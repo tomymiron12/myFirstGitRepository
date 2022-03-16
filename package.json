@@ -13,7 +13,7 @@
   "scripts": {
     "startTest": "nodemon src/index.js",
     "start": "node src/index.js"
-  },
+  }, 
   "author": "tomy",
   "license": "ISC",
   "devDependencies": {
