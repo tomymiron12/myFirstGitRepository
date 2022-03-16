@@ -11,8 +11,8 @@
   "description": "System for stock of a restaurant",
   "main": "src/index.js",
   "scripts": {
-    "start": "nodemon src/index.js",
-    "startAdmin": "node src/index.js"
+    "startTest": "nodemon src/index.js",
+    "start": "node src/index.js"
   },
   "author": "tomy",
   "license": "ISC",
