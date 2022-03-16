@@ -7,7 +7,7 @@ const path = require('path');
 const server = express();
 
 //setting
-server.set('port', 3000);
+server.set('port', 8080);
 server.set('views', path.join(__dirname, 'views'));
 server.engine('html', require('ejs').renderFile);
 server.set('view engine', 'ejs');
